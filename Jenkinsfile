@@ -13,8 +13,8 @@ node {
     clean_when_build_succeed: true,
     clean_when_build_unstable: true,
     // VCS MANAGEMENT
-    repo_https_url: "https://github.com/ot-central-team/UnitEconPro",
-    repo_ssh_url: "https://github.com/ot-central-team/UnitEconPro",
+    repo_https_url: "https://github.com/Shubhanshi-2123/UnitEconPro.git",
+    repo_ssh_url: "https://github.com/Shubhanshi-2123/UnitEconPro.git",
     repo_branch: "main",
     repo_url_type: "http",
     jenkins_git_creds_id: "uniteconpro",
