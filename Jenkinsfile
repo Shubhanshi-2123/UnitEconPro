@@ -13,11 +13,11 @@ node {
     clean_when_build_succeed: true,
     clean_when_build_unstable: true,
     // VCS MANAGEMENT
-    repo_https_url: "https://github.com/Shubhanshi-2123/attendance-api.git",
-    repo_ssh_url: "https://github.com/Shubhanshi-2123/attendance-api.git",
+    repo_https_url: "https://github.com/ot-central-team/UnitEconPro",
+    repo_ssh_url: "https://github.com/ot-central-team/UnitEconPro",
     repo_branch: "main",
     repo_url_type: "http",
-    jenkins_git_creds_id: "shubh-cred",
+    jenkins_git_creds_id: "uniteconpro",
     source_code_path: "",
      // Dependency Scanning
     dependency_check: false,
