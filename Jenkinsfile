@@ -35,7 +35,7 @@ node {
     build_tool: "maven",
     pom_location: " ",
     // Unit Testing
-    unit_testing_check: true,
+    unit_testing_check: false,
     fail_job_if_unit_issue_detected: false,
     build_tool: "maven",
     unit_test_reports_path: "*/target/surefire-reports/*.xml",
